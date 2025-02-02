@@ -1,0 +1,6 @@
+# python 3.9
+ultralytics
+supervision
+flask
+flask_cors
+gunicorn
