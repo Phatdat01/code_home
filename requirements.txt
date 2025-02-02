@@ -3,4 +3,4 @@ ultralytics
 supervision
 flask
 flask_cors
-gunicorn
+waitress
